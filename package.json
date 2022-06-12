@@ -1,5 +1,5 @@
 {
-  "name": "@sipec/vue3-tags-input",
+  "name": "vue-tags-input",
   "version": "3.0.3",
   "author": "Johannes Munari <johannesm@hotmail.de>",
   "license": "MIT",
